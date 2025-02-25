@@ -11,7 +11,7 @@ last_name: Campos-Garagay
 
 # Status emoji
 status:
-  icon: 🌈
+  icon: 🧫
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,11 +21,11 @@ role: Biochemist / Writer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Universidad del Pene chorreando semen
+  - name: Universidad de Concepción
     url: https://udec.cl
 
 # Short bio (displayed in user profile at end of posts)
-bio: Soy una persona ecléctica y bacán
+bio: Soy una persona ecléctica, interesada por el estudio transdisciplinar y el impacto que tienen las bio-narrativas . Mi poesía es principalmente autobiográfica y confesional.. Mi prosa vincula ciencia y sociedad. 
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -36,7 +36,7 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/yoelbacteria
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/yoelbacteria
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
@@ -51,7 +51,7 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: "http://reticularmatias.medium.com"
+Lee más: "http://reticularmatias.medium.com"
 ---
 
-Hola como están
+
