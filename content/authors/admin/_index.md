@@ -21,7 +21,7 @@ role: Biochemist / Writer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Universidad del Pene
+  - name: Universidad del Pene chorreando semen
     url: https://udec.cl
 
 # Short bio (displayed in user profile at end of posts)
