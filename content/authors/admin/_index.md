@@ -25,7 +25,7 @@ organizations:
     url: https://udec.cl
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Soy una persona ecléctica y bacán
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -51,7 +51,7 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: ""
+website: "http://reticularmatias.medium.com"
 ---
 
-Matias Campos Garagay
+Hola como están
