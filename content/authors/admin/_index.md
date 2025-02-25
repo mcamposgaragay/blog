@@ -21,7 +21,7 @@ role: Biochemist / Writer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Universidad de Concepcion
+  - name: Universidad del Pene
     url: https://udec.cl
 
 # Short bio (displayed in user profile at end of posts)
@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/yoelbacteria
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/linkedin
