@@ -1,5 +1,5 @@
 ---
-title: ✅ Cita de amor la órbita de Ganímedes
+title: ✅ Cita de amor en la órbita de Ganímedes
 summary: últimas conversaciones registradas en una estación cerca de Júpiter
 date: 2022-09-22
 authors:
