@@ -24,57 +24,20 @@ tags:
 
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
 
-### Get Started
+Quién es el que sabe amar.
+Qué clase de desdicha es cruzarse con el que no sabe amar
+El corazón se estrecha. El manantial se seca. Todas las personas egoístas se regocijan. El festín de entrañas convida una gran fiesta. Las aguas que fueron brillantes, hoy están opacas.
+Está bien. Ya está.
+No pretendas cuidar lo que no puedes cuidar.
+No titubees. Esta noche quema las persianas velando por tu sanidad.
+Nunca está más oscuro que cuando está a punto de aclarar.
+Talvez mañana llueva.
+Y bueno, ya está.
 
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
-- 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+_En medicina, un granuloma es una masa organizada de células del sistema inmune que al estar tan cerca entre sí dan la apariencia de una bola. La función principal de estas células agrupadas es conseguir aislar un objeto extraño que no puede ser eliminado por la acción individual de cada uno de los componentes del sistema inmune. Los granulomas se observan en una amplia variedad de enfermedades, de origen infeccioso como por ejemplo, en enfermedades mediadas por bacterias del género Mycobacterium (por ej. tuberculosis o lepra) u hongos como el Histoplasma o Cryptococcus. De manera más notable aún, los granulomas también pueden provocarse por enfermedades de tipo autoinmune como el mal de Crohn o la artritis reumatoide; en este caso no hay un factor infeccioso detrás, mas bien un desequilibrio de lo que el cuerpo se confunde con lo que percibe como propio versus lo que percibe como extraño. Las enfermedades autoinmunes se desatan a partir de un desequilibrio de la inmunidad. Y en cualquier caso, la intervención médica siempre apunta a retirar de nuestro cuerpo aquello qué se esmera en dañar; sin importar el control que tenga nuestra inmunidad sobre el malestar…_ 
 
-## Crowd-funded open-source software
+### Glosario
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+**Nódulos linfáticos**: pequeñas agrupaciones con forma de frijol que se encuentran en todo el cuerpo y se conectan mediante los vasos linfáticos.
 
-### [❤️ Click here to become a sponsor and help support Hugo Blox's future ❤️](https://hugoblox.com/sponsor/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
-
-## Ecosystem
-
-- **[Bibtex To Markdown](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Learn what other **creators**](https://hugoblox.com/creators/) are building with this template.
-
-## Features
-
-- **Page builder** - Create _anything_ with no-code [**blocks**](https://hugoblox.com/blocks/) and [**elements**](https://docs.hugoblox.com/reference/markdown/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://docs.hugoblox.com/reference/markdown/), [**Jupyter**](https://docs.hugoblox.com/getting-started/cms/), or [**RStudio**](https://docs.hugoblox.com/getting-started/cms/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/getting-started/customize/)
-- **Display Code and Math** - Code syntax highlighting and LaTeX math supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one-page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 35+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Hugo Blox and its templates come with **automatic day (light) and night (dark) mode** built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.
-
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+**Necrosis/Necrótico**: En biología celular, estado de la célula donde los mecanismos de adaptación fallan y la célula pierde completamente su funcionalidad.
