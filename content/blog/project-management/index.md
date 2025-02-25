@@ -11,84 +11,40 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
 
-## Ideation
+## Cita de amor en la órbita de Ganímedes 
 
-Hugo Blox supports a Markdown extension for mindmaps.
+Dos astronautas encuentran una grabación reproduciéndose en bucle mientras ellos entran para saquear una nave en órbita que había sufrido el abandono. En ella, se escuchan  dos voces que intercambian palabras. Las palabras son interrumpidas por la calidad de la cinta, pero puede distingirse una voz pausada y grave y otra más aguda y quebrada.
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+A: — ¿Te arrepientes?
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
+B: — (...) No. Todo lo que me pasó sirvió para crecer.
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
+A:— ¿Y si te devolvieran el tiempo atrás, lo harías de otra forma?
 
-renders as
+B:— ¿Buscas r... obvias?. Soy una persona distinta, hubiese hecho cosas ... tintas. Pero como.... no cambiaría nada... Pasar por situaciones similares para aprender. No hay suficiente tiempo en esta vida para aprender...
 
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
+A: — Ven aquí…
 
-## Diagrams
+Hay un silencio largo y parece que la grabación termina, pero se retoma con el sonido de besos y ahora hay una música de fondo como un vals. Hay golpes suaves en una superficie. Otra vez silencio antes de retomar la conversación que ahora se escucha sin interrupciones. Los astronautas no parecen percatarse de esto.
 
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
+A: — ¿Puedo preguntar, si acaso aprendiste algo estando junto a mí? Suena la voz más grave aunque ahora usa un gesto de ternura.
 
-An example **Gantt diagram**:
+B: — Sabes que sé todo de ti. Seguro aún te levantas y recuestas por el frío de la mañana. Duermes cuando tienes pena. Disfrutas las caricias en tu pelo, pero sólo si lo llevas corto. Memorizaste la forma en que tus bellos faciales se curvan para dar espacio a tu labio inferior que es más grueso que el superior. Tus rodillas se flectan hacia dentro cuando sientes miedo. Sé lo mucho que extrañas a tu padre, lo sueñas por las noches. No perdonas su alcoholismo. Sé que te gusta tener el control de las situaciones, pero qué cuando te permites soltarlo es cuando te sientes más pleno. Sé que aprendiste a cogerme con delicadeza por todas las veces que te dije que de que aquella forma me dolía y sé que te cuesta un montón porque tu amor es una hoguera que lucha por mantenerse viva. En el fondo, te asusta la idea de aburrirte... tal vez no quieras volver a verme jamás y sin embargo aquí estás yendo hacia ninguna parte flotando por el aire de esta cabina cuando se está por acabar y pienso que es una tragedia la forma en que te estoy confesando lo mucho que me importas y te pienso todavía.
 
-    ```mermaid
-    gantt
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
-    ```
+La segunda voz carraspea. Luego, agrega — Te lo dije, nunca hay suficiente tiempo... para encontrar todas las respuestas.
 
-renders as
+— Por favor no digas eso ahora.
 
-```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
+— Nunca hay mejor tiempo que el ahora.
 
-## Todo lists
+La grabación suelta un chirrido y se ajusta para volver a ejecutar su contenido. No termina de reproducir ni un murmullo cuando los rateros utilizan un detonador que produce un cortocircuito en la nave que posteriormente explota. Se sienten infelices, y se retiraron habiendo encontrado sólo una de las sortijas de oro que les prometieron.
 
-You can even write your todo lists in Markdown too:
+### ¿De qué manera murieron los amantes de la grabación?
+
 
 ```markdown
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
+- [x] Quedaron sin aire en la cabina
+  - [x] Los liquidó el tiempo
+- [ ] Producto de una llamarada solar
 ```
-
-renders as
-
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-
-## Did you find this page helpful? Consider sharing it 🙌
