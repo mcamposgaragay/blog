@@ -13,13 +13,13 @@ image:
 ## Kombucha: alimenta el microbioma
 
 > De suaves texturas, y mucosas esquirlas
-> Rompe la horma que te encierra en la placa del agar
-> Esquiva a la influencia externa, comunión que habla y respira. Se coordina la biopelícula, en un horizontes de sucesos que parece nunca acabar.
-> Y mientras observo la espuma del brebaje que estoy a punto de saborear
-> Pienso en el sarro de la piscina que nadie quiere limpiar.
-> Biopelícula de buena venturanza.
-> Respóndeme si acaso yo también soy comunidad. 
-> Flor de la kombucha dame los nutrientes que me permitirán volar. 
+  Rompe la horma que te encierra en la placa del agar
+  Esquiva a la influencia externa, comunión que habla y respira. Se coordina la biopelícula, en un horizontes de sucesos que parece nunca acabar.
+  Y mientras observo la espuma del brebaje que estoy a punto de saborear
+  Pienso en el sarro de la piscina que nadie quiere limpiar.
+  Biopelícula de buena venturanza.
+  Respóndeme si acaso yo también soy comunidad. 
+  Flor de la kombucha dame los nutrientes que me permitirán volar. 
 
 
 <blockquote class="callout callout_default" theme="🧫">
