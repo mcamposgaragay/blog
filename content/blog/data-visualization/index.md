@@ -1,5 +1,5 @@
 ---
-title: 🫙 Kombucha: alimenta el microbioma
+title: 🫙 Kombucha alimenta el microbioma
 summary: Poema dedicado a Colonia Simbiótica de Bacterias y Levaduras (SCOBY)
 date: 2025-01-25
 authors:
