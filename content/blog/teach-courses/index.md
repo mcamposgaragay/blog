@@ -12,120 +12,17 @@ image:
   caption: 
 ---
 
+## in(ter)ferencia bayesiana_
 
-## Más información en:
+En auto, en horario punta, Ramiro conduce a la defensiva muy pegado en la calzada. Un conductor zigzagea de manera peligrosa abriéndose paso por la vía opuesta, zafando por un pelo el impacto frontal de un camión y llevándose consigo el espejo lateral de nuestro conductor, Ramiro. Observando como el auto se alejaba a toda velocidad, suelta garabatos, hace un silencio largo y luego canta por encima de la tonada que emite el programa radial. En secreto, Ramiro suele remontarse a tardes de otoño mientras pasea por el campus de la universidad, mirando con curiosidad a la pareja que montaba una escena en las afueras de un aula; ella llorando y él tratando de calmarla. Se remonta a la vez que estando en una fiesta escuchaba conversar a un grupo de muchachos sobre el cuerpo de la novia de uno de estos, mirando una fotografía detenidamente a través de la pantalla del celular. Luego, recuerda como cuadraba durante horas los escritos que le entregaban en carrera de leyes y que debía memorizar de manera exacta para ser aprobado con excelencia. Le cuadraba que mientras era niño, el correr detrás de una pelota que su padre le lanzaba con un puntapié necesitase patearla y no cogerla con las manos con tal de no recibir apremios contra su hombría, qué le pidieran pintar de color verde (y no naranja como a él le gustaba) las hojas de un árbol en un mural y que ni-se-le-ocurriese salirse por los bordes punteados por una línea. Que aunque la herida sangrase, de nada le servía llorar. Y qué a cierta edad ya tuviese que dejar de jugar con rompecabezas, que tanto le encantaban.
+Y si a Ramiro los grandes le piden que guarde secretos por razones que comparte pero no entiende, seguramente lo hará. Ramiro, pues, tal vez sea de los que respetan la calzada, o de los que encuentran de lo más atroz los rayones sobre los muros de la ciudad; de los que visten corbatas poco llamativas y de los que se regocijan por encima de los colegas que van a cafés con piernas. Pero muy en el fondo Ramiro conoce el placer de pisar el acelerador con velocidad, con la satisfacción de dejar atrás aquel ridículo espejo lateral y abstraerse tanto para no escuchar la tediosa emisora que repite las mismas canciones sin parar. En su cabeza, los insultos se transforman en algarabías que van en escalada mientras pistea con el afán de impactar al conductor que le había dejado atrás y por delante de él se escuchan bocinas y las luces rojas de la ciudad iluminan en total éxtasis su cara dándole la sensación de ser el juglar que lleva la convicción que esta no era la mejor forma, pero que se trata de la única que se viene haciendo desde la eternidad.
+
+- - -
+
+_La inferencia bayesiana es un tipo de inferencia estadística en la que las evidencias u observaciones realizadas en el acto son empleadas para inferir la probabilidad de que una hipótesis condicional pueda ser cierta. El nombre «bayesiano>>> proviene del uso frecuente que se hace del teorema de Bayes durante el proceso de inferencia. Recibe el nombre en honor al matemático Thomas Bayes quién sostenía en su teorema el ejemplo de que si una persona amarrada en una silla con la mirada hacia la pared recibiese un golpe cada vez que dijera una palabra con "p" eventualmente se vería en la obligación de comenzar a repetir palabras al azar hasta encontrar el patrón que le revelara la condición por la cual estaba siendo castigado. En otras palabras, que los sistemas de probabilidad solo pueden ser abordados desde la experimentación y que leemos el futuro de esta forma. El teorema de Bayes suena como algo muy alejado de todo y responde muy bien sobre cómo se manipulan los sistemas de creencias de las sociedades modernas, razón por la cual son un campo de aplicación en inteligencia artificial (cómo el algoritmo de instagram o el horóscopo). Pero la inferencia bayesiana sostiene por sobretodas las cosas que ninguna posibilidad es nula o absoluta, sino que se actualiza en la medida que se experimenta ¿Y tú, con frecuencia te atreves a romper la inferencia bayesiana?_
+
+### <mark> Más información en: </mark>
 
 ¿Se puede predecir el futuro? El cerebro bayesiano
 
-
-
-    {{</* youtube RvxjyKIKI5s */>}}
-
-{{< youtube D2vj0WcvH5c >}}
-
-**Bilibili**:
-
-    {{</* bilibili BV1WV4y1r7DF */>}}
-
-{{< bilibili BV1WV4y1r7DF >}}
-
-**Video file**
-
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
-
-    {{</* video src="my_video.mp4" controls="yes" */>}}
-
-## Podcast
-
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
-
-    {{</* audio src="ambient-piano.mp3" */>}}
-
-Try it out:
-
-{{< audio src="ambient-piano.mp3" >}}
-
-## Test students
-
-Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
-
-```markdown
-{{</* spoiler text="👉 Click to view the solution" */>}}
-You found me!
-{{</* /spoiler */>}}
-```
-
-renders as
-
-{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
-
-## Math
-
-Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. Enable math by setting the `math: true` option in your page's front matter, or enable math for your entire site by toggling math in your `config/_default/params.yaml` file:
-
-```yaml
-features:
-  math:
-    enable: true
-```
-
-To render _inline_ or _block_ math, wrap your LaTeX math with `$...$` or `$$...$$`, respectively.
-
-Example **math block**:
-
-```latex
-$$
-\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
-$$
-```
-
-renders as
-
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-
-Example **inline math** `$\nabla F(\mathbf{x}_{n})$` renders as $\nabla F(\mathbf{x}_{n})$.
-
-Example **multi-line math** using the math linebreak (`\\`):
-
-```latex
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
-```
-
-renders as
-
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}
-$$
-
-## Code
-
-Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
-
-
-    ```python
-    import pandas as pd
-    data = pd.read_csv("data.csv")
-    data.head()
-    ```
-
-renders as
-
-```python
-import pandas as pd
-data = pd.read_csv("data.csv")
-data.head()
-```
-
-## Inline Images
-
-```go
-{{</* icon name="python" */>}} Python
-```
-
-renders as
-
-{{< icon name="python" >}} Python
-
-## Did you find this page helpful? Consider sharing it 🙌
+    {{< youtube RvxjyKIKI5s */>}}
