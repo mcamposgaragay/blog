@@ -1,31 +1,25 @@
 ---
-title: 👩🏼‍🏫 Teach academic courses
-summary: Embed videos, podcasts, code, LaTeX math, and even test students!
-date: 2023-10-24
+title: 👩🏼‍🏫 in(ter)ferencia bayesiana_
+summary: un relato para pensar como pensamos
+date: 2022-05-04
 math: true
 authors:
   - admin
 tags:
-  - Hugo
-  - Hugo Blox Builder
-  - Markdown
+  - Spanish
+  - Cuento
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+## Más información en:
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+¿Se puede predecir el futuro? El cerebro bayesiano
 
-## Video
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
-**Youtube**:
-
-    {{</* youtube D2vj0WcvH5c */>}}
+    {{</* youtube RvxjyKIKI5s */>}}
 
 {{< youtube D2vj0WcvH5c >}}
 
