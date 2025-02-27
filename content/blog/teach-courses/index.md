@@ -25,4 +25,4 @@ _La inferencia bayesiana es un tipo de inferencia estadística en la que las evi
 
 ¿Se puede predecir el futuro? El cerebro bayesiano
 
-    {{< youtube RvxjyKIKI5s */>}}
+    {{< youtube RvxjyKIKI5s >}}
