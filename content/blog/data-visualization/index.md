@@ -31,4 +31,4 @@ Flor de la kombucha dame los nutrientes que me permitirán volar.
 
 ### <mark>Glosario</mark>
 
-**Biopelícula**:  Una biopelícula es una comunidad de microorganismos adheridos a una superficie, embebidos en una matriz de sustancias poliméricas que ellos mismos producen. Estas estructuras protegen a los microorganismos y les permiten resistir condiciones adversas, como antibióticos y desinfectantes.
+  **Biopelícula**:  Una biopelícula es una comunidad de microorganismos adheridos a una superficie, embebidos en una matriz de sustancias poliméricas que ellos mismos producen. Estas estructuras protegen a los microorganismos y les permiten resistir condiciones adversas, como antibióticos y desinfectantes.
