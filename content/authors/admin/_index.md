@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Matias Campos-Garagay
+title: Matias Campos-Garagay / @reticularmatias 
 
 # Name pronunciation (optional)
 name_pronunciation: He/him
@@ -11,7 +11,7 @@ last_name: Campos-Garagay
 
 # Status emoji
 status:
-  icon: 🧫
+  icon: 🌈
 
 # Is this the primary user of the site?
 superuser: true
