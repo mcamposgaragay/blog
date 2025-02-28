@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: "Matias Campos-Garagay" # Website name
+title: "Matías" # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
@@ -19,7 +19,7 @@ cascade:
     editable: true
     hide_date: false
     show_date_updated: true
-    reading_time: true
+    reading_time: false
     commentable: true
     show_related: true
     share: true
