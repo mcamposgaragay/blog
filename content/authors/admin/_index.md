@@ -25,20 +25,20 @@ organizations:
     url: https://udec.cl
 
 # Short bio (displayed in user profile at end of posts)
-bio: Soy una persona interesada por el estudio transdisciplinar y el impacto que tienen las bio-narrativas en las políticas públicas. Mi poesía es principalmente confesional y onírica. Actualmente me dedico al estudio de los probióticos en ecosistemas acuáticos y peces.
+bio: Soy una persona interesada por el estudio transdisciplinar y el impacto que tienen las bio-narrativas en las políticas públicas. Mi poesía es principalmente confesional y tiene una gran influencia onírica. Actualmente me dedico al estudio de los probióticos en ecosistemas acuáticos y peces.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:mcamposg@udec.cl'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/mcamposgaragay
+    url: https://twitter.com/reticularmatias
   - icon: brands/instagram
-    url: https://www.instagram.com/proteomatias
+    url: https://www.instagram.com/reticularmatias
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/matías-campos-garagay-a01092118
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
@@ -51,7 +51,7 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-Lee más: "http://matiascamposgaragay.medium.com"
+Lee más: "http://mcamposgaragay.medium.com"
 ---
 
 
