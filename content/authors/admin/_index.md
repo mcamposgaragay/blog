@@ -25,7 +25,7 @@ organizations:
     url: https://udec.cl
 
 # Short bio (displayed in user profile at end of posts)
-bio: Soy una persona ecléctica, interesada por el estudio transdisciplinar y el impacto que tienen las bio-narrativas . Mi poesía es principalmente autobiográfica y confesional.. Mi prosa vincula ciencia y sociedad. 
+bio: Soy una persona interesada por el estudio transdisciplinar y el impacto que tienen las bio-narrativas en las políticas públicas. Mi poesía es principalmente confesional y onírica. Actualmente me dedico al estudio de los probióticos en ecosistemas acuáticos y peces.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -34,9 +34,9 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/yoelbacteria
+    url: https://twitter.com/mcamposgaragay
   - icon: brands/instagram
-    url: https://www.instagram.com/yoelbacteria
+    url: https://www.instagram.com/proteomatias
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
@@ -51,7 +51,7 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-Lee más: "http://reticularmatias.medium.com"
+Lee más: "http://matiascamposgaragay.medium.com"
 ---
 
 
