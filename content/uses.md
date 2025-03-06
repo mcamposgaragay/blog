@@ -11,7 +11,7 @@ reading_time: false
 
 ## Medium
 
-- [Reticularmatias](https://reticularmatias.medium.com) 
+- [Reticularmatias](https://mcamposgaragay.medium.com) 
 
 ## Editor + Terminal
 
