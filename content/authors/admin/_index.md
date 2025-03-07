@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Matias Campos-Garagay / @reticularmatias 
+title: Matias Campos-Garagay 
 
 # Name pronunciation (optional)
 name_pronunciation: He/him
@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:mcamposg@udec.cl'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/reticularmatias
+    url: https://twitter.com/proteomatias
   - icon: brands/instagram
     url: https://www.instagram.com/reticularmatias
   - icon: brands/linkedin
