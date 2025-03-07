@@ -8,9 +8,9 @@ reading_time: false
 
 (EN). I am an autistic person interested in transdisciplinary studies and the impact of bio-narratives on public policy. In this blog you will find mainly literature linking microbiology and society. Soon I intend to publish my Phyton codes. I am currently dedicated to the study of psychobiotics in ecosystems through a bioinformatics model at the University of Concepción under the tutelage of Professor Apolinaria García-Cancino.</div>
 
-## Medium
+## Reading
 
-- [Reticularmatias](https://mcamposgaragay.medium.com) 
+- [Medium](https://mcamposgaragay.medium.com) 
 
 ## Editor + Terminal
 
