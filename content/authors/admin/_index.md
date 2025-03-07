@@ -11,7 +11,7 @@ last_name: Campos-Garagay
 
 # Status emoji
 status:
-  icon: 🌈
+  icon: 🦠
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,7 +21,7 @@ role: Biochemist / Writer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Universidad de Concepción
+  - name: Universidad de Concepción, CL
     url: https://udec.cl
 
 # Short bio (displayed in user profile at end of posts)
