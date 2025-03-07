@@ -34,9 +34,9 @@ profiles:
     url: 'mailto:mcamposg@udec.cl'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/proteomatias
+    url: https://twitter.com/yoelbacteria
   - icon: brands/instagram
-    url: https://www.instagram.com/reticularmatias
+    url: https://www.instagram.com/joel.bacteria
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/matías-campos-garagay-a01092118
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
