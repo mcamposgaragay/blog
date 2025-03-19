@@ -13,10 +13,8 @@ sections:
       biography:
         style: 'text-align: justify; font-size: 0.8em;'
       background:
-      # Choose a color such as from https://html-color-codes.info
-      color: 'WhiteSmoke'
-      # Text color (true=light, false=dark, or remove for the dynamic theme color).
-      text_color_light: true
+      image:
+        filename: fondo.svg
   - block: collection
     content:
       filters:
