@@ -5,8 +5,7 @@ date: 2022-09-22
 authors:
   - admin
 tags:
-  - Hugo Blox
-  - Markdown
+  - SciFi
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
