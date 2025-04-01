@@ -9,5 +9,5 @@ main:
     url: tags/
     weight: 20
   - name: sobre mí
-    url: uses/
+    url: me/
     weight: 35
