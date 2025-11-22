@@ -1,15 +1,15 @@
 -----
 title: Ignus fatus 👻
 summary: They say we were different
-date: 2025-11-11
+date: 2025-11-22
 math: true
 authors:
   - admin
 tags:
   - Spanish
   - Poema
-image: featured.jpg 
-  caption: 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 ------
 Ni soy célula en el excremento,
