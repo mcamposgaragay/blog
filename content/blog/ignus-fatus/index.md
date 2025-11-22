@@ -8,7 +8,7 @@ authors:
 tags:
   - Spanish
   - Poema
-image:
+image: featured.jpg 
   caption: 
 
 ------
