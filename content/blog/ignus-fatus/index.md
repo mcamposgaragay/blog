@@ -1,8 +1,7 @@
------
+---
 title: Ignus fatus 👻
 summary: They say we were different
 date: 2025-11-22
-math: true
 authors:
   - admin
 tags:
@@ -11,7 +10,12 @@ tags:
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
-------
+---
+{{< toc mobile_only=true is_open=true >}}
+
+## Fuego Fatuo
+
+
 Ni soy célula en el excremento,
 ni soy cultivo en mar de rosas
 más bien, de mis límites brotan
