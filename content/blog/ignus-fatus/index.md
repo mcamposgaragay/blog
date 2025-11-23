@@ -1,6 +1,6 @@
 ---
-title: Ignus fatus 👻
-summary: They say we were different
+title: Ignuus fatus 👻
+summary: Para aprender a morir o matar
 date: 2025-11-22
 math: true
 authors:
@@ -52,6 +52,8 @@ y memoria.
   <p style="font-style: normal;">
    El fuego fatuo —también conocido como ignis fatuus o “luz de muerto”— es una luminiscencia espontánea que aparece en zonas pantanosas, cementerios o lugares con alta descomposición orgánica. Históricamente se ha asociado con espíritus o presencias sobrenaturales, pero la ciencia ha identificado causas más terrenales: la combustión de gases como metano, fósforo e hidrógeno liberados por la descomposición de materia orgánica.
 
-   Investigaciones recientes han revelado que microdescargas eléctricas generadas por burbujas de bacterias en ambientes húmedos podrían ser el detonante del fenómeno. Estas descargas actúan como chispas que encienden los gases inflamables presentes en el aire
+   Investigaciones recientes han revelado que microdescargas eléctricas generadas por burbujas de bacterias en ambientes húmedos podrían ser el detonante del fenómeno. Estas descargas actúan como chispas que encienden los gases inflamables presentes en el aire [1]
   </p>
+
+  [1] https://www.pnas.org/doi/full/10.1073/pnas.2521255122
 </blockquote>
