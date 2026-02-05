@@ -1,5 +1,5 @@
 ---
-title: Ignuus fatus 👻
+title: 👻 Ignuus fatus 
 summary: Para aprender a morir o matar
 date: 2025-11-22
 math: true
